@@ -13,5 +13,6 @@ Some additional links (including the courses from which I have borrowed some mat
 - https://automating-gis-processes.github.io/2018/index.html
 - Research Computing in Earth Sciences (https://rabernat.github.io/research_computing_2018/)
 - Scipy Lecture Notes (http://scipy-lectures.org/)
-- https://github.com/geopandas/scipy2018-geospatial-data/
+- GeoPandas tutorial: https://github.com/jorisvandenbossche/geopandas-tutorial (source of the material in the geopandas-tutorial sub-directory here)
+- Similar tutorial including part on PySAL: https://github.com/geopandas/scipy2018-geospatial-data/
 
