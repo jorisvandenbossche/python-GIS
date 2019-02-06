@@ -1,0 +1,17 @@
+name: geo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - geopandas
+  - pysal < 2.0
+  - contextily
+  - cartopy
+  - geoplot
+  - folium
+  - ipyleaflet
+  - scikit-learn
+  - rasterio
+  - xarray
+  - jupyterlab
+
