@@ -15,4 +15,4 @@ Some additional links (including the courses from which I have borrowed some mat
 - Scipy Lecture Notes (http://scipy-lectures.org/)
 - GeoPandas tutorial: https://github.com/jorisvandenbossche/geopandas-tutorial (source of the material in the geopandas-tutorial sub-directory here)
 - Similar tutorial including part on PySAL: https://github.com/geopandas/scipy2018-geospatial-data/
-
+- PySAL: Python spatial analysis library (http://pysal.org/)
